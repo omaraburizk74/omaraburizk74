@@ -1,5 +1,5 @@
 <h1 align="center">Hey👋, I'm Omar Abu Rizk</h1>
-<h2 align="center">AI & Machine Learning Instructor | Data Analyst | Content Creator</h2>
+<h2 align="center">AI & Machine Learning Instructor | Content Creator</h2>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=OmarAbuRizk&label=Profile%20views&color=0e75b6&style=flat" alt="OmarAbuRizk" /> 

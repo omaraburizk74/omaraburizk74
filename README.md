@@ -1,8 +1,15 @@
 <h1 align="center">Hey👋, I'm Omar Abu Rizk</h1>
 <h2 align="center">AI & Machine Learning Instructor | Content Creator</h2>
+<p align="center">
+    <a href="https://www.linkedin.com/in/omaraburizk74"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.youtube.com/@omaraburizkk"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
+    <a href="https://www.instagram.com/omaraburizkk"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+    [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omaraburizk99@gmail.com)
 
+  </p>
+  
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=OmarAbuRizk&label=Profile%20views&color=0e75b6&style=flat" alt="OmarAbuRizk" /> 
+    <img src="https://github.com/omaraburizk74/omaraburizk74/blob/main/omar-img.png" align="right" width="25%"/>
 </p>
 
 <hr/>
@@ -51,5 +58,4 @@ I focus on turning theory into practical applications and helping students build
 
 ## 📫 Contact me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omaraburizk74)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omaraburizk99@gmail.com)
 <hr/>

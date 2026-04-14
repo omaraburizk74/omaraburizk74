@@ -4,8 +4,7 @@
     <a href="https://www.linkedin.com/in/omaraburizk74"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.youtube.com/@omaraburizkk"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
     <a href="https://www.instagram.com/omaraburizkk"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
-    [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omaraburizk99@gmail.com)
-
+    <a href="mailto:omaraburizk99@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   </p>
   
 <p align="left"> 

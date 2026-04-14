@@ -48,7 +48,7 @@ I focus on turning theory into practical applications and helping students build
 <hr/>
 
 ## 📫 Contact me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([[omaraburizk74](https://www.linkedin.com/in/omaraburizk74/)])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omaraburizk74)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](YOUR_YOUTUBE_LINK)
 

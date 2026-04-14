@@ -11,7 +11,7 @@
 AI & Machine Learning Instructor passionate about simplifying complex concepts for beginners.  
 Skilled in **Python, Machine Learning, Deep Learning, NLP, Computer Vision, SQL, Power BI**.
 
-Experienced in building real-world projects, teaching practical skills, and creating content that helps beginners enter the world of AI and Data Science step by step.
+Experienced in teaching practical skills and creating content that helps beginners enter the world of AI and Data Science step by step.
 
 I focus on turning theory into practical applications and helping students build strong, job-ready skills.
 

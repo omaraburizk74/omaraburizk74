@@ -50,7 +50,7 @@ I focus on turning theory into practical applications and helping students build
 ## 📫 Contact me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omaraburizk74)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omaraburizk99@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/omaraburizkk)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@omaraburizkk)
 <hr/>
 
 ## 📊 GitHub Stats:

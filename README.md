@@ -1,5 +1,6 @@
 <h1 align="center">Hey👋, I'm Omar Abu Rizk</h1>
 <h2 align="center">AI & Machine Learning Instructor | Content Creator</h2>
+## 📫 Contact me:
 <p align="center">
     <a href="https://www.linkedin.com/in/omaraburizk74"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.youtube.com/@omaraburizkk"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
@@ -55,6 +56,6 @@ I focus on turning theory into practical applications and helping students build
 
 <hr/>
 
-## 📫 Contact me:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omaraburizk74)
 <hr/>
